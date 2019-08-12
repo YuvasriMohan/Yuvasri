@@ -1,0 +1,5 @@
+n1=int(input())
+a=int(input())
+d=int(input())
+sum=int((n1*(2*a+(n1-1)*d))/2)
+print(sum)
